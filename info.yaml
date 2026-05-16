@@ -1,8 +1,8 @@
 # Tiny Tapeout project information
 project:
   title:        "VGA donut"
-  author:       "Andy Sloane"
-  discord:      "a1k0n"
+  author:       "Alan"
+  discord:      ""
   description:  "Renders a 3D torus on a VGA display"
   language:     "Verilog"
   clock_hz:     48000000
